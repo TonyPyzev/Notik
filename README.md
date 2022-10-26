@@ -2,5 +2,4 @@
 
 Flutter pet project
 
-## Getting Started
 
